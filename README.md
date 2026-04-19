@@ -27,12 +27,10 @@ RetailIQ is a full-stack business intelligence application for the Olist Brazili
 
 ## Screenshots
 
-Add screenshots after the app is running locally:
+<img width="1399" height="852" alt="image" src="https://github.com/user-attachments/assets/1f70b61e-723a-4d0b-9dde-044d9ac79294" />
+<img width="1292" height="818" alt="image" src="https://github.com/user-attachments/assets/a56a183f-e619-435a-b6fa-4fcc3b645e73" />
+<img width="1294" height="778" alt="image" src="https://github.com/user-attachments/assets/f944ecec-05e4-42a7-8abd-b85181f58c1f" />
 
-- `screenshots/executive-dashboard.png`
-- `screenshots/customer-analytics.png`
-- `screenshots/product-seller-intelligence.png`
-- `screenshots/predictive-analytics.png`
 
 ## Project Structure
 
