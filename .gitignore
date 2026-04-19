@@ -21,7 +21,6 @@ ENV/
 .streamlit/secrets.toml
 
 # Local datasets and generated artifacts
-data/
 models/
 artifacts/
 *.pkl
